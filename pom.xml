@@ -75,7 +75,7 @@
                     <arguments>
                         <argument>-classpath</argument>
                         <classpath />
-                        <argument>com.ocloud.Alarm.App</argument>
+                        <argument>com.skiers.project.application</argument>
                     </arguments>
                 </configuration>
             </plugin>
